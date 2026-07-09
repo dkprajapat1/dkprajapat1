@@ -1,45 +1,42 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar Prajapat</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • MERN • Next.js • Problem Solver
-</h3>
+# Hey there! 👋 I'm Dinesh Kumar Prajapat
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+React+%7C+Node.js;250%2B+DSA+Problems+Solved;Always+Learning+Something+New+🚀" />
-</p>
+### Software Engineering • Full Stack Development • Problem Solving
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=650&lines=Building+things+for+the+web...;Next.js+%7C+React+%7C+Node.js;Learning+System+Design;250%2B+DSA+Problems+Solved;Always+Building.+Always+Learning." />
 
-## 🚀 About Me
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based%20In-India-orange?style=for-the-badge"/>
 
-- 🎓 B.Tech CSE @ JECRC University
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently learning **System Design & Advanced Next.js**
-- ⚡ Love building scalable web applications
-- 🧠 Solved **250+ DSA Problems**
-- 🚀 Exploring Open Source
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 💫 About Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dineshkumarprajapat/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+I'm a Computer Science undergraduate who enjoys building products that solve real-world problems.
 
-<a href="https://github.com/dkprajapat1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+Over the past few months, I've been focused on developing full-stack applications using modern JavaScript technologies while strengthening my problem-solving skills through Data Structures & Algorithms.
 
-<a href="https://dkprajapat1.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
+I enjoy designing clean backends, creating responsive user interfaces, and continuously improving the quality of my code.
+
+Currently I'm focused on:
+
+🚀 Building production-ready web applications
+
+⚙️ Learning scalable backend architecture
+
+🧠 Practicing Data Structures & Algorithms
+
+📚 Exploring System Design
+
+💡 Turning ideas into real products
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
@@ -50,7 +47,7 @@ Full Stack Developer • MERN • Next.js • Problem Solver
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>
 </p>
 
 ### Backend
@@ -75,108 +72,60 @@ Full Stack Developer • MERN • Next.js • Problem Solver
 
 # 🚀 Featured Projects
 
-## ☕ Get Me A Chai
+### ☕ Get Me A Chai
 
-Creator Support Platform inspired by Buy Me a Coffee.
-
-✨ Features
-
-- NextAuth Authentication
-- Razorpay Integration
-- MongoDB
-- Dynamic Profiles
-- Server Actions
-- Leaderboard
+A creator support platform built with Next.js, MongoDB, NextAuth and Razorpay featuring secure authentication, creator profiles and payment integration.
 
 ---
 
-## 📚 Student Productivity Web App
+### 📚 Student Productivity App
 
-Student Management System
-
-✔ Notes
-
-✔ Attendance
-
-✔ Assignments
-
-✔ REST APIs
-
-✔ MongoDB
+A productivity platform that helps students manage notes, assignments and attendance through REST APIs and MongoDB.
 
 ---
 
-## 🖼 React Photo Gallery
+### 🖼 React Photo Gallery
 
-- Image Search
-- Favorites
-- useReducer
-- useMemo
-- useCallback
-- Local Storage
+A responsive gallery application powered by external APIs featuring search, favourites and performance optimization using React Hooks.
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dkprajapat1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dkprajapat1&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkprajapat1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkprajapat1&layout=compact&theme=transparent"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dkprajapat1&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dkprajapat1&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkprajapat1&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/dkprajapat1/dkprajapat1/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 💡 Quote
-
-> "Consistency beats intensity. Build. Learn. Improve. Repeat."
-
----
+# 🌐 Let's Connect
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dkprajapat1&label=Profile+Views&color=blue&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/dineshkumarprajapat/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/dkprajapat1">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://dkprajapat1.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
-</h3>
+*"Keep building. Keep learning."*
+
+</div>
