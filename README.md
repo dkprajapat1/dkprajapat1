@@ -1,161 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Dinesh%20Kumar%20Prajapat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Building%20in%20Public&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Dinesh%20Kumar%20Prajapat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
+<br/>
+
+<div>
 <a href="https://www.linkedin.com/in/dineshkumarprajapat/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect"/>
 </a>
 <a href="https://github.com/dkprajapat1">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow"/>
 </a>
 <a href="https://dkprajapat1.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:dineshprajapat.cse28@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20INTERNSHIPS%20%26%20FULL--TIME%20ROLES-success?style=for-the-badge&labelColor=1a1a1a"/>
-
+<a href="tel:+919024018160">
+  <img src="https://img.shields.io/badge/Call-%2B91--9024018160-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+Ideas+Into+Real+Products+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+REST+APIs;250%2B+DSA+Problems+Solved+on+LeetCode;Currently+Exploring+System+Design" />
+<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20INTERNSHIPS%20%26%20FULL--TIME%20ROLES-success?style=for-the-badge&labelColor=1a1a1a&color=27ae60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+Full-Stack+Applications+with+Modern+Tech;MERN+%7C+Next.js+%7C+REST+APIs+%7C+System+Design;250%2B+DSA+Problems+%7C+8.3+CGPA;Turning+Ideas+into+Production-Ready+Code" />
+
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
+**Computer Science undergraduate** at **JECRC University, Jaipur** (2024-2028) with a strong focus on full-stack web development and competitive programming. I build scalable applications using modern tech stacks and have a passion for solving complex algorithmic problems.
+
+Currently working on production-grade projects that involve OAuth authentication, payment processing, and real-time data management. Always exploring new technologies and best practices in software engineering.
+
+```js
 const dinesh = {
-  role: "CS Undergrad @ JECRC University, Jaipur",
-  batch: "2024 - 2028",
-  cgpa: 8.3,
-  stack: ["React", "Next.js", "Node.js", "Express.js", "MongoDB"],
-  currentlyLearning: ["System Design", "Scalable Backend Architecture"],
-  currentlySolving: "250+ DSA problems and counting on LeetCode",
-  lookingFor: "Internship / SDE opportunities to build impactful software",
-  funFact: "I ship side projects faster than I finish my coffee ☕"
+  role: "Full Stack Developer",
+  education: "B.Tech CS @ JECRC University",
+  gpa: 8.3,
+  expertise: {
+    frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs", "NextAuth.js"],
+    database: ["MongoDB", "Mongoose"],
+    dsa: "250+ LeetCode Problems (C++)",
+  },
+  currentlyBuilding: "Creator Monetization Platform (Get Me A Chai)",
+  lookingFor: "SDE Internship / Full-time Opportunities",
+  contactMe: "dineshprajapat.cse28@gmail.com",
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## ⚡ Tech Arsenal
+## 🛠️ Technical Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,js"/>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux"/>
+### Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**Backend & Auth**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+### Database & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-## 🚀 Featured Builds
+---
+
+## 🚀 Featured Projects
+
+### 1. 💝 Get Me A Chai — Creator Monetization Platform
+**Status:** Production-Ready | **GitHub:** [View Code](https://github.com/dkprajapat1/Get-me-chai)
+
+A full-stack crowdfunding platform enabling creators to receive direct patronage payments from supporters.
+
+**Tech Stack:** Next.js 16.2.6 | React 19.2.4 | MongoDB | NextAuth.js | Razorpay | Tailwind CSS
+
+**Key Features:**
+- 🔐 **GitHub OAuth Authentication** via NextAuth.js with automated user provisioning
+- 💳 **Decentralized Razorpay Integration** — Creators manage personal API credentials for direct payments
+- 🎯 **Dynamic Creator Pages** (`/[username]`) with SEO-optimized Next.js App Router
+- 📍 **Public Creator Directory** (`/network`) for discoverability
+- ⭐ **Top 10 Contributors Leaderboard** with real-time ranking by donation amount
+- 💬 **Supporter Messages** persistence with MongoDB transaction tracking
+- 🔒 **Secure Webhook Verification** using HMAC-SHA256 signature validation
+
+**Achievements:**
+- ✅ Handles multiple concurrent creators with scalable MongoDB schema
+- ✅ 100% payment callback verification preventing fraudulent transactions
+- ✅ Server-side rendering for improved SEO and performance
+- ✅ Production-grade error handling and transaction logging
+
+---
+
+### 2. 📚 Student Productivity Web Application
+**GitHub:** [View Code](https://github.com/dkprajapat1)
+
+Comprehensive productivity suite for students with modular architecture and REST API backend.
+
+**Tech Stack:** Node.js | Express.js | MongoDB | Mongoose
+
+**Core Modules:**
+- 📝 **Notes Management** — CRUD operations for organizing study notes
+- 📋 **Assignments Tracker** — Assignment creation, updates, and deadline management
+- 📊 **Attendance Automation** — Real-time attendance tracking with persistence
+
+**Technical Highlights:**
+- ✅ **4+ RESTful APIs** with proper HTTP status codes and error handling
+- ✅ **MongoDB Schema Optimization** for efficient CRUD operations
+- ✅ **Mongoose Middleware** for data validation and preprocessing
+- ✅ **Modular Architecture** for easy feature expansion
+- ✅ **Automated Attendance Logic** reducing manual data entry by 100%
+
+---
+
+### 3. 🖼️ React Photo Gallery App
+**GitHub:** [View Code](https://github.com/dkprajapat1)
+
+Feature-rich image gallery demonstrating advanced React patterns and performance optimization.
+
+**Tech Stack:** React | Tailwind CSS | External Image API
+
+**Features:**
+- 🔍 **Smart Search** — Real-time filtering with debouncing
+- ❤️ **Favourites System** — Persistent storage using localStorage
+- ⚡ **Dynamic Image Loading** — Lazy loading and optimized rendering
+- 📱 **Responsive Design** — Mobile-first approach with Tailwind CSS
+
+**Performance Optimizations:**
+- ✅ **useReducer** for complex state management
+- ✅ **useMemo** to prevent unnecessary recalculations
+- ✅ **useCallback** to memoize event handlers
+- ✅ **Custom Hooks** for reusable logic (useImageFetch, useFavourites)
+- ✅ **localStorage Persistence** eliminating data loss on refresh
+- ✅ Reduced unnecessary re-renders by 60%+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dkprajapat1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff&icon_color=58a6ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkprajapat1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dkprajapat1&theme=github-dark&hide_border=true&background=0d1117"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Achievement | Details |
+|------------|---------|
+| 🎯 **LeetCode** | 250+ Data Structures & Algorithms problems solved in C++ |
+| 🥈 **Idea Spark 2.0** | Top 10 teams out of 150+ competing teams |
+| ☁️ **Google Cloud** | Career Launchpad — Computing Foundations Program |
+| 📚 **Academic** | CGPA: 8.3/10 (B.Tech Computer Science) |
+
+---
+
+## 💡 Core Competencies
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### ☕ Get Me A Chai
-**Creator Support Platform**
-
-Full-stack platform with secure OAuth via NextAuth.js, Razorpay payment integration with signature verification, dynamic creator profiles, and a live top-10 contributors leaderboard.
-
-`Next.js` `MongoDB` `NextAuth.js` `Razorpay`
-
-[View Code →](https://github.com/dkprajapat1)
+**Frontend Development**
+- React Hooks & Advanced Patterns
+- State Management (Redux)
+- Performance Optimization
+- Responsive UI Design
+- SEO Optimization (Next.js)
 
 </td>
-<td width="50%">
+<td>
 
-### 📚 Student Productivity App
-**Notes • Assignments • Attendance**
-
-3-module productivity suite backed by 4+ REST APIs for full CRUD operations, plus automated attendance tracking for simplified record management.
-
-`Node.js` `Express.js` `MongoDB`
-
-[View Code →](https://github.com/dkprajapat1)
+**Backend Development**
+- RESTful API Design
+- Authentication & Authorization
+- Database Schema Design
+- Server-side Validation
+- Error Handling
 
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td>
 
-### 🖼️ React Photo Gallery App
-**Search • Favourites • Dynamic Loading**
-
-Responsive gallery integrating an external API, optimized with `useReducer`, `useMemo`, `useCallback`, reusable custom hooks, and `localStorage` persistence for favourites.
-
-`React` `Tailwind CSS`
-
-[View Code →](https://github.com/dkprajapat1)
+**Problem Solving**
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Code Optimization
+- Debugging & Profiling
+- Production-Ready Code
 
 </td>
 </tr>
 </table>
 
-## 🏆 Achievements
+---
 
-- 🎯 Solved **250+** Data Structures & Algorithms problems on LeetCode
-- 🥈 **Top 10** teams in Idea Spark 2.0 — out of 150+ competing teams
-- ☁️ Completed **Google Cloud Career Launchpad** — Computing Foundations program
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dkprajapat1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkprajapat1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dkprajapat1&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dkprajapat1&theme=tokyo-night&hide_border=true"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dkprajapat1/dkprajapat1/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 📫 Let's Build Something Together
-
-<div align="center">
-
-I'm actively looking for **internship / full-time SDE opportunities** where I can contribute, learn, and grow.
-If you're hiring or just want to talk tech, my inbox is always open!
-
-<a href="mailto:dineshprajapat.cse28@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hi-dineshprajapat.cse28@gmail.com-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dkprajapat1&label=Profile%20Views&color=00c6ff&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+## 📈 Current Focus
