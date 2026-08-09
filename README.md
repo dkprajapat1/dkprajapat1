@@ -138,7 +138,7 @@ Responsive gallery integrating an external API, optimized with `useReducer`, `us
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/dkprajapat1/dkprajapat1/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 📫 Let's Build Something Together
