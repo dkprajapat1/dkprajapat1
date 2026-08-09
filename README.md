@@ -227,4 +227,36 @@ Feature-rich image gallery demonstrating advanced React patterns and performance
 
 ---
 
-## 📈 Current Focus
+## 📫 Let's Connect
+
+I'm actively seeking **SDE Internship / Full-time opportunities** where I can contribute to impactful projects, learn from experienced engineers, and grow as a developer.
+
+<div align="center">
+
+**Whether you want to discuss tech, collaborate on projects, or explore opportunities — let's talk!**
+
+<a href="mailto:dineshprajapat.cse28@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-dineshprajapat.cse28@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+919024018160">
+  <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B91--9024018160-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Last Updated:** January 2026 | Actively Maintained
+
+<img src="https://komarev.com/ghpvc/?username=dkprajapat1&label=Profile%20Views&color=667eea&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer"/>
+
+**Made with ❤️ by Dinesh | Open to Opportunities 🚀**
+
+</div>
