@@ -47,7 +47,7 @@ const dinesh = {
     frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "REST APIs", "NextAuth.js"],
     database: ["MongoDB", "Mongoose"],
-    dsa: "250+ LeetCode Problems (C++)",
+    dsa: "300+ LeetCode Problems (C++)",
   },
   currentlyBuilding: "Creator Monetization Platform (Get Me A Chai)",
   lookingFor: "SDE Internship / Full-time Opportunities",
