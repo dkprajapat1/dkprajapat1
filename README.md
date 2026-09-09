@@ -181,7 +181,7 @@ Feature-rich image gallery demonstrating advanced React patterns and performance
 
 | Achievement | Details |
 |------------|---------|
-| 🎯 **LeetCode** | 250+ Data Structures & Algorithms problems solved in C++ |
+| 🎯 **LeetCode** | 300+ Data Structures & Algorithms problems solved in C++ |
 | 🥈 **Idea Spark 2.0** | Top 10 teams out of 150+ competing teams |
 | ☁️ **Google Cloud** | Career Launchpad — Computing Foundations Program |
 | 📚 **Academic** | CGPA: 8.3/10 (B.Tech Computer Science) |
