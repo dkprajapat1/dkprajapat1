@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20INTERNSHIPS%20%26%20FULL--TIME%20ROLES-success?style=for-the-badge&labelColor=1a1a1a&color=27ae60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+Full-Stack+Applications+with+Modern+Tech;MERN+%7C+Next.js+%7C+REST+APIs+%7C+System+Design;250%2B+DSA+Problems+%7C+8.3+CGPA;Turning+Ideas+into+Production-Ready+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+Full-Stack+Applications+with+Modern+Tech;MERN+%7C+Next.js+%7C+REST+APIs+%7C+System+Design;300%2B+DSA+Problems+%7C+8.5+CGPA;Turning+Ideas+into+Production-Ready+Code" />
 
 </div>
 
